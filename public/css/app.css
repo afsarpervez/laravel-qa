@@ -10901,3 +10901,7 @@ a.text-dark:focus {
   height: 60px;
 }
 
+form.form-delete {
+  display: inline;
+}
+
